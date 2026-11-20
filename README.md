@@ -15,7 +15,9 @@ Cursor's docs say a symlink under `~/.cursor/plugins/local` loads only when its 
 ## Use it
 
 Point, run, get.
+
 In Cursor's chat, name the project: `Set up FAF for /path/to/your/project`. project.faf goes next to that project's README.md.
+
 Or run `npx faf-cli init` in your project's terminal.
 
 Licence: MIT. See LICENSE.
