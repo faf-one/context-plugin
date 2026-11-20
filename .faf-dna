@@ -1,0 +1,23 @@
+{
+  "birthCertificate": {
+    "born": "2026-11-20T23:14:59.390Z",
+    "birthDNA": 8,
+    "birthDNASource": "auto",
+    "authenticated": false,
+    "certificate": "FAF-2026-WORKSPAC-XMJV"
+  },
+  "current": {
+    "score": 8,
+    "version": "v1.0.0",
+    "lastSync": "2026-11-20T23:14:59.390Z"
+  },
+  "milestones": [
+    {
+      "type": "birth",
+      "score": 8,
+      "date": "2026-11-20T23:14:59.390Z",
+      "version": "v1.0.0"
+    }
+  ],
+  "format": "faf-dna-v1"
+}
