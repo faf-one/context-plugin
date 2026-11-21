@@ -1,4 +1,4 @@
-The FAF plugin for any Agent Plugins client.
+# The FAF plugin for any Agent Plugins client.
 
 One plugin. It carries the `faf-mcp` 4.2.0 server and no skills. The server runs locally over stdio. It keeps a project's facts (stack, goal, commands, who, what, why) in `project.faf` (IANA media type `application/vnd.faf+yaml`), scores how complete that file is, and writes AGENTS.md, .cursorrules, CLAUDE.md, and GEMINI.md from it. Name the project path when you set a project up.
 
