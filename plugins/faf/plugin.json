@@ -1,0 +1,12 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "faf",
+  "version": "0.1.0",
+  "description": "Installs the faf-mcp server, which keeps a project's facts in project.faf, scores that file, and writes AGENTS.md, .cursorrules, CLAUDE.md, and GEMINI.md from it.",
+  "author": {
+    "name": "wolfejam"
+  },
+  "homepage": "https://faf.one",
+  "repository": "https://github.com/faf-one/context-plugin",
+  "license": "MIT"
+}
